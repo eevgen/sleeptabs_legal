@@ -33,4 +33,4 @@ All data processing occurs locally within your browser. No data leaves your devi
 
 ## Contact
 
-For questions about this privacy policy, contact: [INSERT EMAIL HERE]
+For questions about this privacy policy, contact: yevhenkalenichenko@gmail.com
